@@ -20,17 +20,24 @@ let authorName = prompt('What is your full name?');
 
 // TODO: A variable named "adjective1" for a word used to describe something.
 
+let adjective1 = prompt('Please provide an adjective');
 // TODO: A variable named "vehicle" for a mode of transation (e.g. plane, boat, etc.).
 
+let vehicle = prompt('What is your mode of transportation? (e.g. plane, boat, etc.)');
 // TODO: A variable named "vehiclePart" for a part of the vehicle you just named.
 
+let vehiclePart = prompt('Name a part of the vehicle you just named');
 // TODO: A variable named "parking" for a location where you park the vehicle you just named.
 
+let parking = prompt('Where is your vehicle parked?');
 // TODO: A variable named "precious" for a precious object.
 
+let precious = prompt('Name a precious object');
 // TODO: A variable named "noiseMaker" for something that makes a sound.
 
+let noiseMaker = prompt('Name something that makes a sound');
 // TODO: A variable named "crowdBehavior" for something that people do together as a group.
+
 
 // TODO: A variable named "adjective2" for a word used to describe something.
 
@@ -68,11 +75,15 @@ let authorName = prompt('What is your full name?');
 // TODO: To begin with, prompt the user to collect their favorite number that is not zero.
 // Call this variable "userNumber".
 
+let userNmber = prompt('What is your lucky number?');
+
 // TODO: generate TWO more numbers called "number2" and "number 3".
 // Use any operator you would like to add, multiply, divide, or otherwise
 // change the number that the user submitted.
 
+let number2 = userNumber * 4;
 
+let number3 = userNumber / number2 + (number2/12);
 // DO NOT EDIT BELOW THIS LINE /////////////////////////////////////////
 //
 // The code below his line handles variable replacement into the HTML file.
