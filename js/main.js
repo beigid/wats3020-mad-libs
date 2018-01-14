@@ -38,7 +38,7 @@ let precious = prompt('Name a precious object');
 let noiseMaker = prompt('Name something that makes a sound');
 // TODO: A variable named "crowdBehavior" for something that people do together as a group.
 
-let crowdBehavior = promot('Name something people do together as a group'); 
+let crowdBehavior = prompt('Name something people do together as a group'); 
 // TODO: A variable named "adjective2" for a word used to describe something.
 
 let adjective2 = prompt('Provide another adjective');
