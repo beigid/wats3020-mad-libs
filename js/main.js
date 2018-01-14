@@ -38,33 +38,46 @@ let precious = prompt('Name a precious object');
 let noiseMaker = prompt('Name something that makes a sound');
 // TODO: A variable named "crowdBehavior" for something that people do together as a group.
 
-
+let crowdBehavior = promot('Name something people do together as a group'); 
 // TODO: A variable named "adjective2" for a word used to describe something.
 
+let adjective2 = prompt('Provide another adjective');
 // TODO: A variable named "adjective3" for a word used to describe something.
 
+let adjective3 = prompt('Provide yet another adjective');
 // TODO: A variable named "color" for the name of a color.
 
+let color = prompt('Name a color');
 // TODO: A variable named "familyMember" for the name of a family relationship (e.g. sister, father, etc.).
 
+let familyMember = prompt('Give the name of a family member (e.g. sister, father, etc.)');
 // TODO: A variable named "organ" for the name of a body organ (e.g. heart, liver, spleen, etc.).
 
+let organ = prompt('Name a body organ');
 // TODO: A variable named "bodyPart1" for the name of a body part.
 
+let bodyPart1 = prompt('Name a body part');
 // TODO: A variable named "bodyPart2" for the name of a body part.
 
+let bodyPart2 = prompt('Name another body part');
 // TODO: A variable named "bodyPart3" for the name of a body part.
 
+let bodyPart3 = prompt('Name one last body part');
 // TODO: A variable named "thing" for an object.
 
+let thing = prompt('Name an object');
 // TODO: A variable named "thing2" for an object you might give somebody you love.
 
+let thing2 = prompt('Name another object');
 // TODO: A variable named "thing3" for an object you might give somebody you like.
 
+let thing3 = prompt('Name one last object');
 // TODO: A variable named "adjective4" for a word used to describe the vehicle.
 
+let adjective4 = prompt('Name an adjective');
 // TODO: A variable named "adjective5" for a word used to describe the vehicle.
 
+let adjective5 = prompt('Name another adjective');
 
 ////////////////////////////////////////////////////////////////////////
 // Section Numbers
@@ -75,7 +88,7 @@ let noiseMaker = prompt('Name something that makes a sound');
 // TODO: To begin with, prompt the user to collect their favorite number that is not zero.
 // Call this variable "userNumber".
 
-let userNmber = prompt('What is your lucky number?');
+let userNumber = prompt('What is your lucky number?');
 
 // TODO: generate TWO more numbers called "number2" and "number 3".
 // Use any operator you would like to add, multiply, divide, or otherwise
